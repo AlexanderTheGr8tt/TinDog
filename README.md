@@ -1,4 +1,3 @@
-# TinDog
-Project is a copy from Tinder.
+# TinDog a copy from Tinder.
 
-Made from "The Complete 2023 Web Development Bootcamp" on Udemy
+The project was made of "The Complete 2023 Web Development Bootcamp" on Udemy.
